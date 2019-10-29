@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.content img {
+    width: 728px;
+    height: 1321px;
+
+}
+body{
+
+
+   // background-image: url("img/desctop.jpg");//
+    background-size: cover;
+}
+
+
+.sidebar{
+    //background-image: url("img/phone.jpg");//
+}
+.footer{
+
+    overflow: auto;
+    min-height: 100px;
+    padding: 20px;
+
+    vertical-align: text-bottom;
+}
