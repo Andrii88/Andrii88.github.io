@@ -60,22 +60,16 @@ body {
 
 }
 p.hr{
-
     margin: 0%;
     margin-left: 11%;
-
 }
 ul.hr {
-
     margin: 0%;
     padding: 0px;
-    margin-left: 706px;
+    margin-left: 712px;
 }
 ul.hr li {
-
     display: inline;
-    margin-right: 9%;
-
-
+    margin-right: 8%;
     padding: 0px;
 }
