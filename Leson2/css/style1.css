@@ -66,12 +66,13 @@ p.hr{
 
 }
 ul.hr {
-    display: inline;
+
     margin: 0%;
     padding: 0px;
     margin-left: 706px;
 }
 ul.hr li {
+
     display: inline;
     margin-right: 9%;
 
